@@ -1,6 +1,6 @@
 # 🧘‍♂️ Yogify — Your Social Yoga & Wellness Tracker
 
-![Yogify Banner](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ea52d95d91df2a748101e409eca6e94d05f8740c_banner.jpg) 
+![Yogify Banner](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1f1295fef29dfda9869ed00214f5b72ce9fb360e_banner.jpg) 
 
 Welcome to **Yogify**, a beautiful and nature-inspired yoga and health tracking app where you can connect with friends and grow together on your wellness journey.
 
